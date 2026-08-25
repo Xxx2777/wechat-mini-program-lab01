@@ -1,0 +1,6 @@
+<view class="container">
+  <text>{{message}}</text>
+  <button bindtap="changeText">
+    点击改变文字
+  </button>
+</view>
